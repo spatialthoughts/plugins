@@ -1,0 +1,7 @@
+[general]
+name=Pathfinder
+description=This plugin finds a least cost path between chosen points.
+version=1.0
+qgisMinimumVersion=3.0
+author=Ujaval Gandhi
+email=ujaval@spatialthoughts.com
